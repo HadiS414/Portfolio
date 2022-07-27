@@ -11,8 +11,8 @@ const Experience = () => {
             <div className="timeline-block timeline-block-right">
                 <div className="marker"></div>
                 <div className="timeline-content">
-                    <h2>  Seeking Software Engineer Position </h2>
-                    <h5> Present </h5>
+                    <h2>  Junior Customer Blockchain Engineer </h2>
+                    <h5> July 2022 - Present @ BlockApps </h5>
                 </div>
             </div>
 
